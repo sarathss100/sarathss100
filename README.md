@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Node-js,Javascript advanced and DataStructure...
 - 💞️ I’m completed 2 projects on frond end using Html,CSS-3,Javascript,Bootstrap-5
 - 🌱 I Learned programming bacics from C,Java and Python....
-- 🌱 Full Stack Developer => Data Science => Machine Learning => Artificial Intelligence + Block Chain Technology
+- 🌱 Full Stack Developer => Data Science => Machine Learning => Artificial Intelligence + Block Chain
 
