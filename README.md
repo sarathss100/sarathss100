@@ -12,6 +12,7 @@ Frontend Magic
 - 🎨 Tailwind CSS - Crafting beautiful, responsive designs
 - 🔄 Redux & Zustand - State management that scales
 - 📘 TypeScript - Type-safe, maintainable code
+- 📜 JavaScript - Modern ES6+ development
 
 Backend Power
 - 🟢 Node.js & Express.js - Fast, scalable server-side solutions
