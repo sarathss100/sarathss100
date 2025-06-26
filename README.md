@@ -42,6 +42,7 @@ I believe in writing clean, efficient code that not only solves problems but ant
 
 ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathss100&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathss100&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarathss100&theme=react-dark)
 
 🌟 Let's Connect!
 I'm always excited to collaborate on innovative projects and discuss the latest in web development. Whether you're looking to build something amazing or just want to chat about tech, feel free to reach out!
