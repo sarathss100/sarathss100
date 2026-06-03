@@ -47,7 +47,7 @@ DevOps & Cloud
 I believe in writing clean, efficient code that not only solves problems but anticipates future needs. Every project is an opportunity to push boundaries and deliver exceptional user experiences.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarathss100&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathss100&layout=compact&theme=radical)
+[![My Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 🌟 Let's Connect!
 I'm always excited to collaborate on innovative projects and discuss the latest in web development. Whether you're looking to build something amazing or just want to chat about tech, feel free to reach out!
