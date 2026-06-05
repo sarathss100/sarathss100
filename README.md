@@ -25,7 +25,7 @@ Backend
 - 🐘 PostgreSQL - Relational database mastery
 - 🐍 Python - Versatile scripting and automation
 - 🔌 REST APIs - Robust, scalable backend services
-- 🏗️ MVC, Clean, Repository Architecture - Clean, maintainable code structure
+- 🏗️ MVC, Clean, Repository Pattern - Clean, maintainable code structure
 
 Real-time & Communication
 
@@ -39,8 +39,7 @@ Integrations & Security
 _ 🔐 Firebase 
 
 DevOps & Cloud
-- ☁️ AWS (IAM, S3, EC2, Billing and Cost Management)- Cloud infrastructure and services
-- 🔄 CI/CD (gitLab) - Automated deployment pipelines
+- ☁️ AWS (IAM, EC2, Billing and Cost Management)- Cloud infrastructure and services
 - 📦 Modern development workflows (Agile)
 
 🎯 My Approach
