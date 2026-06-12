@@ -1,6 +1,6 @@
 Hi there, I'm Sarath S S 👋
 
-🚀 Self Taught Full-Stack Developer
+🚀 I'm a Full-Stack Developer (MERN/PERN)
 
 💡 What I Do
 I specialize in creating end-to-end web applications. From database design to deployment pipelines, I handle the complete development lifecycle.
